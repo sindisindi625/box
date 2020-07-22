@@ -1,7 +1,6 @@
-# box
-Puna ime....
-int a = 5;
-int b = 7;
-sum = 0;
-int sum = a + b;
-<h3>puna est e till...</h3>
+
+```shell
+mnelson:Desktop mnelson$ cd ~/Desktop
+mnelson:Desktop mnelson$ mkdir myproject
+mnelson:Desktop mnelson$ cd myproject/
+```
